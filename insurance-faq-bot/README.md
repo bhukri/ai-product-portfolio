@@ -14,7 +14,7 @@ for customers, brokers, and internal staff.
 - No code required
 
 ## Key product decisions
-- Named persona ("Aria") to anchor tone consistency
+- Named persona ("Ira") to anchor tone consistency
 - Hard guardrails on pricing and legal advice to manage regulatory risk
 - Empathy trigger for distressed users — insurance conversations often 
   happen after difficult events
