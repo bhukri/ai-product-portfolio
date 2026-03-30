@@ -9,7 +9,7 @@ using Claude. All projects built in 30 days with no code.
 |---|---|---|
 | Insurance FAQ Chatbot | Chatbot | Done |
 | Claims Status Tracker | Dashboard | Planned |
-| Policy Summarizer | Document AI | Planned |
+| Policy Summarizer | Document AI | Done |
 | Meeting Notes Generator | Automation | Planned |
 | KPI Snapshot Builder | Dashboard | Planned |
 | RFP Response Assistant | Document AI | Planned |
